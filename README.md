@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### Command Line Interface
 
 ```bash
-python gitlab-pipeline-visualizer.py https://gitlab.com/group/project/-/pipelines/123
+python gitlab_pipeline_visualizer.py https://gitlab.com/group/project/-/pipelines/123
 ```
 
 To switch between visualization mode, use `--mode` (`timeline` (the default if not given) or `deps`)
