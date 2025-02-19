@@ -783,7 +783,7 @@ config:
 
 Created by Claude sonnet 3.5 (https://claude.ai) with the help of Twidi (https://github.com/twidi)
 Source code: https://github.com/twidi/gitlab-pipeline-visualizer/
-Onlive version: https://gitlabviz.pythonanywhere.com/
+Online version: https://gitlabviz.pythonanywhere.com/
 """,
     )
 
